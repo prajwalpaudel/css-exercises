@@ -1,0 +1,22 @@
+/* styles.css */
+
+.odd-text,.cool-text {
+    background-color: #ffc0cb;
+    font-family: Verdana, "DejaVu Sans", sans-serif; 
+}
+
+.cool-text {
+    font-size: 24px;
+}
+
+#second-text {
+    color: rgb(38, 64, 231);
+    font-size: 36px;
+}
+
+#fourth-text {
+    background-color:rgb(170, 219, 97) ;
+    font-size:24px;
+    font-weight:bold;
+}
+
